@@ -1,0 +1,10 @@
+a.out
+*.o
+maze*
+littlecMatt
+.DS_Store
+.DS_Store?
+.vscode
+main_generate
+main_solve
+test*

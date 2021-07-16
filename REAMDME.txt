@@ -1,0 +1,11 @@
+Operating System: macOS Catalina (Version 10.15.6)
+Compiler: clang (Version 11.0.0)
+
+Steps to compile and execute the program:
+1. Compile the all programs in the terminal using the make file
+>>> make
+
+2. Execute the program
+>>>
+
+3. Within the terminal, it'll print out the results
